@@ -1,7 +1,5 @@
 # Hi there! I'm Luis Hernández 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Benji!;I'm+a+CS+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
-
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" alt="Coding"> Software Engineer with **over 6 years of experience** in web development, transforming ideas into robust and scalable digital solutions.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis07Hernandez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
@@ -9,6 +7,9 @@
 ---
 
 ## 🚀 About Me
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Luis!;I'm+a+Software+Engineer.;I+love+coding❤️.;A+big+fan+of+Ramen...)](https://git.io/typing-svg)
+
 
 I'm a passionate full-stack web developer with a deep specialization in **Drupal**. I have worked extensively with all versions from **Drupal 7 up to the latest, Drupal 11**. My expertise isn't limited to Drupal; I also have a strong command of PHP frameworks like **Laravel**.
 
