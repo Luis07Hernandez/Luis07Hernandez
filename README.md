@@ -1,5 +1,7 @@
 # Hi there! I'm Luis Hernández 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Benji!;I'm+a+CS+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" alt="Coding"> Software Engineer with **over 6 years of experience** in web development, transforming ideas into robust and scalable digital solutions.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis07Hernandez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
