@@ -6,58 +6,69 @@
 
 ---
 
-# Hi there, I'm Luis Hernández 👋
-Software Engineer with 6+ years in web development, specializing in Drupal & modern JavaScript frameworks.
+## 🚀 About Me
+
+I'm a passionate full-stack web developer with a deep specialization in **Drupal**. I have worked extensively with all versions from **Drupal 7 up to the latest, Drupal 11**. My expertise isn't limited to Drupal; I also have a strong command of PHP frameworks like **Laravel**.
+
+On the **frontend** side, I navigate fluently between **React** and **Vue.js**, and I've built dynamic user experiences using modern frameworks such as **Next.js**, **Nuxt.js**, and **Astro**.
+
+Currently, I'm focused on staying at the cutting edge, constantly updating myself with the **latest modern frontend technologies and frameworks**, with a particular emphasis on **TypeScript** for building safer and more maintainable applications.
 
 ---
 
-🚀 Currently leading teams, architecting Drupal solutions, and diving deeper into **TypeScript** and modern frontend technologies like **React, Vue, Next.js, Nuxt.js & Astro**.
+## 💻 My Skills
+
+* **Backend:**
+    * PHP
+    * Drupal (7, 8, 9, 10, 11) - Expert!
+    * Laravel
+    * Custom module and theme development for Drupal
+    * Drupal solutions architecture
+* **Frontend:**
+    * JavaScript (ES6+)
+    * TypeScript
+    * React.js
+    * Vue.js
+    * Next.js
+    * Nuxt.js
+    * Astro
+    * HTML5, CSS3, SASS/LESS
+* **Leadership & Collaboration:**
+    * Tech Team Lead
+    * Drupal Architect
+    * Experience working with multicultural and distributed teams (Ukraine 🇺🇦, India 🇮🇳, United States 🇺🇸, Spain 🇪🇸, Colombia 🇨🇴).
+* **Languages:**
+    * Spanish (Native)
+    * English (Excellent technical proficiency - improving my speaking skills day by day! 🗣️)
+* **Others:**
+    * Git, Docker, CI/CD, Agile Methodologies (Scrum/Kanban)
 
 ---
 
-### 💻 My Tech Stack:
+## 🌍 Highlighted Experience
 
-**Core Expertise:**
-<p align="left">
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.drupal.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drupal/drupal-original-wordmark.svg" alt="drupal" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/laravel8530.jpg" alt="laravel" width="40" height="40"/> </a>
-</p>
+I've had the privilege of collaborating on challenging and high-impact projects for a variety of clients, including:
 
-**Frontend Focus:**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" alt="nuxtjs" width="40" height="40"/> </a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original-wordmark.svg" alt="astro" width="40" height="40"/> </a>
-</p>
+* **Government Entities**
+* **Tecnológico de Monterrey**
+* **Nestlé**
+* And many more!
 
-**Also proficient with:** HTML5, CSS3, SASS/LESS, Git, Docker, CI/CD, Agile (Scrum/Kanban).
+My focus has always been on delivering **successful projects**, meeting the highest standards of quality and performance.
 
 ---
 
-### 🌍 Experience Highlights:
+## 🌱 What I'm Currently Working On
 
-* Architecting and leading **Drupal projects (v7-v11)**.
-* Collaborating with international teams from **Ukraine 🇺🇦, India 🇮🇳, USA 🇺🇸, Spain 🇪🇸, & Colombia 🇨🇴**.
-* Delivering successful projects for clients like **Government Entities, Tecnológico de Monterrey, and Nestlé**.
-
----
-
-### 🌱 Currently:
-
-* Enhancing expertise in the **modern TypeScript & frontend ecosystem**.
-* Improving my **English speaking skills** 🗣️ (technical English is excellent!).
+* Deepening my knowledge in **TypeScript** and its application in the modern frontend ecosystem.
+* Exploring new architectures and design patterns for scalable web applications.
+* Always looking for the next interesting challenge. 😉
 
 ---
 
-### 📫 Let's Connect:
+## 📫 Let's Connect!
 
-<p align="left">
-  <a href="https://linkedin.com/in/luis07hernandez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis07hernandez" height="30" width="40" /></a>
-</p>
+I'm open to collaborations, opportunities, and chatting about technology.
+* **LinkedIn:** [linkedin.com/in/luis07hernandez](https://www.linkedin.com/in/luis07hernandez)
 
----
+Thanks for visiting my profile!
