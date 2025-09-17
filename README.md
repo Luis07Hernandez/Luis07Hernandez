@@ -2,8 +2,6 @@
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" alt="Coding"> Software Engineer with **over 6 years of experience** in web development, transforming ideas into robust and scalable digital solutions.
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis07Hernandez&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
-
 ---
 
 ## 🚀 About Me
