@@ -8,6 +8,9 @@
 
 ## 🚀 About Me
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Luis!;I'm+a+Software+Engineer.;I+love+coding❤️.;A+big+fan+of+Ramen...)](https://git.io/typing-svg)
+
+
 I'm a passionate full-stack web developer with a deep specialization in **Drupal**. I have worked extensively with all versions from **Drupal 7 up to the latest, Drupal 11**. My expertise isn't limited to Drupal; I also have a strong command of PHP frameworks like **Laravel**.
 
 On the **frontend** side, I navigate fluently between **React** and **Vue.js**, and I've built dynamic user experiences using modern frameworks such as **Next.js**, **Nuxt.js**, and **Astro**.
