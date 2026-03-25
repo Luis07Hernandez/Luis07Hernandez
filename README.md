@@ -15,7 +15,7 @@
   <tr>
     <td width="60%">
       <p>
-        Software Engineer with <b>over 8 years of experience</b> (from Drupal 7 to 11). I specialize in transforming complex business requirements into robust, scalable digital architectures.
+        Software Engineer with <b>over 7 years of experience</b> (from Drupal 7 to 11). I specialize in transforming complex business requirements into robust, scalable digital architectures.
       </p>
       <p align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=25&duration=4000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Building+with+Drupal+11;Laravel+%26+Next.js+Enthusiast;Leading+Multicultural+Teams;Ramen+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
@@ -62,6 +62,7 @@
 * **Tecnológico de Monterrey:** High-impact educational platforms.
 * **Nestlé:** Scalable enterprise solutions.
 * **Government Entities:** Robust and secure public-facing architectures.
+* **Bogota Government:** Robust and secure public-facing architectures.
 
 ---
 
@@ -73,11 +74,10 @@
 ---
 
 ## 📫 Let's Connect!
-<p align="left">
-<a href="https://www.linkedin.com/in/luis07hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis07hernandez" height="30" width="40" /></a>
-<a href="mailto:tu-email@benhadigital.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
-</p>
+I'm open to collaborations, opportunities, and chatting about technology.
+
+* **LinkedIn:** [linkedin.com/in/luis07hernandez](https://www.linkedin.com/in/luis07hernandez)
 
 <p align="right">
-  <i>"Transforming ideas into robust code."</i>
+  <i>“That’s my ninja way… to become Hokage!”</i>
 </p>
