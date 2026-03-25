@@ -1,5 +1,5 @@
 # Hi there, I'm Luis Hernández 👋 
-### CEO @ [Benha Digital](https://benhadigital.com) | Drupal Architect | Senior Drupal Developer | Tech Team Lead
+### CEO @ [Benha Digital](https://benhadigital.com) | Drupal Architect | Tech Team Lead
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge&logo=expert&logoColor=white" />
@@ -50,6 +50,21 @@
 
 ---
 
+## 🌟 Successful Projects
+
+A selection of high-impact digital solutions I've architected and developed:
+
+| Project & Link | Tech Stack | Key Role & Achievements |
+| :--- | :--- | :--- |
+| **[Contraloría de Bogotá](https://www.contraloriabogota.gov.co/)** | ![Drupal 11](https://img.shields.io/badge/-Drupal%2011-0678BE?logo=drupal&logoColor=white) ![AI](https://img.shields.io/badge/-AI%20Chatbot-00A67E?logo=openai&logoColor=white) ![Azure](https://img.shields.io/badge/-Microsoft%20Entra%20ID-0078D4?logo=microsoftazure&logoColor=white) | **Drupal Architect:** Led the D9 to D11 migration. Integrated an AI-powered chatbot trained on internal documentation and implemented Federated Login (SSO) with Microsoft Entra ID. |
+| **[Bomberos Bogotá](https://www.bomberosbogota.gov.co)** | ![Drupal 11](https://img.shields.io/badge/-Drupal%2011-0678BE?logo=drupal&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) | **Lead Senior Developer:** Spearheaded the D7 to D11 migration. Managed a full theme redesign and custom feature development for high-traffic news and events modules. |
+| **[Educat (GIZ)](https://www.educat.com.mx/)** | ![Laravel](https://img.shields.io/badge/-Laravel%208-FF2D20?logo=laravel&logoColor=white) ![Inertia.js](https://img.shields.io/badge/-Inertia.js-9553E9?logo=inertia&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white) | **Fullstack Developer:** Developed a high-performance course platform for transport professionals (GIZ). Built a seamless SPA experience using Inertia.js and Vue.js. |
+| **[Tecmilenio](https://tecmilenio.mx)** | ![Drupal 9](https://img.shields.io/badge/-Drupal%209-0678BE?logo=drupal&logoColor=white) ![Performance](https://img.shields.io/badge/-Performance-yellow) | **Senior Developer:** Optimized Drupal core, views, and hooks. Implemented advanced caching strategies, reducing load times from **8 seconds down to 1 second**. |
+| **[Transportes S&P](https://syptransportes.com/) / [DS](https://transportesds.com.mx/)** | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![SEO](https://img.shields.io/badge/-SEO-brightgreen) | **Frontend Architect:** Designed multi-language corporate sites with ultra-fast performance and elite SEO scores using Astro's modern island architecture. |
+| **Confidential Portfolio** | ![Drupal](https://img.shields.io/badge/-Drupal-0678BE) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20) ![React](https://img.shields.io/badge/-React-61DAFB) ![.NET](https://img.shields.io/badge/-.NET-512BD4) | **Tech Lead / Architect:** 50+ additional enterprise projects delivered involving Next.js, .NET Core, and Vue.js under strict NDA. |
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luis07hernandez&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=555" alt="GitHub Stats" />
@@ -67,9 +82,9 @@
 ---
 
 ## 🌱 Currently Working On
-* Mastering **Advanced TypeScript** for enterprise frontend apps.
-* Architecting **Decoupled Drupal** solutions with Next.js.
-* Mentoring the next generation of developers at Benha Digital.
+* ⚡ Mastering **Advanced TypeScript** for enterprise frontend apps.
+* 🏗️ Architecting **Decoupled Drupal** solutions with Next.js.
+* 🤝 Mentoring the next generation of developers at Benha Digital.
 
 ---
 
