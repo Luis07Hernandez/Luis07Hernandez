@@ -1,5 +1,5 @@
 # Hi there, I'm Luis Hernández 👋 
-### CEO @ [Benha Digital](https://benhadigital.com) | Drupal Architect | Tech Team Lead
+### CEO @ [Benha Digital](https://benhadigital.com) | Drupal Architect | Senior Drupal Developer | Tech Team Lead
 
 <p align="left">
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge&logo=expert&logoColor=white" />
@@ -67,9 +67,9 @@
 ---
 
 ## 🌱 Currently Working On
-* ⚡ Mastering **Advanced TypeScript** for enterprise frontend apps.
-* 🏗️ Architecting **Decoupled Drupal** solutions with Next.js.
-* 🤝 Mentoring the next generation of developers at Benha Digital.
+* Mastering **Advanced TypeScript** for enterprise frontend apps.
+* Architecting **Decoupled Drupal** solutions with Next.js.
+* Mentoring the next generation of developers at Benha Digital.
 
 ---
 
