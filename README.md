@@ -1,75 +1,83 @@
-# Hi there! I'm Luis Hernández CEO of Benha Digital https://benhadigital.com 👋
+# Hi there, I'm Luis Hernández 👋 
+### CEO @ [Benha Digital](https://benhadigital.com) | Drupal Architect | Tech Team Lead
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30" alt="Coding"> Software Engineer with **over 6 years of experience** in web development, transforming ideas into robust and scalable digital solutions.
+<p align="left">
+  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge&logo=expert&logoColor=white" />
+  <img src="https://img.shields.io/badge/Specialty-Drupal%20Expert-brightgreen?style=for-the-badge&logo=drupal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Solutions-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+Luis!;I'm+a+Software+Engineer.;I+love+coding❤️.;A+big+fan+of+Ramen...)](https://git.io/typing-svg)
-
-
-I'm a passionate full-stack web developer with a deep specialization in **Drupal**. I have worked extensively with all versions from **Drupal 7 up to the latest, Drupal 11**. My expertise isn't limited to Drupal; I also have a strong command of PHP frameworks like **Laravel**.
-
-On the **frontend** side, I navigate fluently between **React** and **Vue.js**, and I've built dynamic user experiences using modern frameworks such as **Next.js**, **Nuxt.js**, and **Astro**.
-
-Currently, I'm focused on staying at the cutting edge, constantly updating myself with the **latest modern frontend technologies and frameworks**, with a particular emphasis on **TypeScript** for building safer and more maintainable applications.
-
----
-
-## 💻 My Skills
-
-* **Backend:**
-    * PHP
-    * Drupal (7, 8, 9, 10, 11) - Expert!
-    * Laravel
-    * Custom module and theme development for Drupal
-    * Drupal solutions architecture
-* **Frontend:**
-    * JavaScript (ES6+)
-    * TypeScript
-    * React.js
-    * Vue.js
-    * Next.js
-    * Nuxt.js
-    * Astro
-    * HTML5, CSS3, SASS/LESS
-* **Leadership & Collaboration:**
-    * Tech Team Lead
-    * Drupal Architect
-    * Experience working with multicultural and distributed teams (Ukraine 🇺🇦, India 🇮🇳, United States 🇺🇸, Spain 🇪🇸, Colombia 🇨🇴).
-* **Languages:**
-    * Spanish (Native)
-    * English (Excellent technical proficiency - improving my speaking skills day by day! 🗣️)
-* **Others:**
-    * Git, Docker, CI/CD, Agile Methodologies (Scrum/Kanban)
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p>
+        Software Engineer with <b>over 8 years of experience</b> (from Drupal 7 to 11). I specialize in transforming complex business requirements into robust, scalable digital architectures.
+      </p>
+      <p align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&size=25&duration=4000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Building+with+Drupal+11;Laravel+%26+Next.js+Enthusiast;Leading+Multicultural+Teams;Ramen+Lover+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" /></a>
+      </p>
+      <p>
+        CEO at <b>Benha Digital</b>, leading teams across 🇺🇦, 🇮🇳, 🇺🇸, 🇪🇸, and 🇨🇴. I bridge the gap between high-level architecture and modern frontend agility.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4bm93bmZ0bm56bmZ0bm56bmZ0bm56bmZ0bm56bmZ0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Coding">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌍 Highlighted Experience
+## 🛠️ Tech Stack & Skills
 
-I've had the privilege of collaborating on challenging and high-impact projects for a variety of clients, including:
+### 🛡️ Backend & Architecture
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-* **Government Entities**
-* **Tecnológico de Monterrey**
-* **Nestlé**
-* And many more!
-
-My focus has always been on delivering **successful projects**, meeting the highest standards of quality and performance.
+### 🎨 Frontend Ecosystem
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Astro](https://img.shields.io/badge/astro-%23ff5d01.svg?style=for-the-badge&logo=astro&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 🌱 What I'm Currently Working On
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luis07hernandez&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=555" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis07hernandez&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=555" alt="Top Languages" />
+</p>
 
-* Deepening my knowledge in **TypeScript** and its application in the modern frontend ecosystem.
-* Exploring new architectures and design patterns for scalable web applications.
-* Always looking for the next interesting challenge. 😉
+---
+
+## 🌟 Highlighted Experience
+* **Tecnológico de Monterrey:** High-impact educational platforms.
+* **Nestlé:** Scalable enterprise solutions.
+* **Government Entities:** Robust and secure public-facing architectures.
+
+---
+
+## 🌱 Currently Working On
+* ⚡ Mastering **Advanced TypeScript** for enterprise frontend apps.
+* 🏗️ Architecting **Decoupled Drupal** solutions with Next.js.
+* 🤝 Mentoring the next generation of developers at Benha Digital.
 
 ---
 
 ## 📫 Let's Connect!
+<p align="left">
+<a href="https://www.linkedin.com/in/luis07hernandez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis07hernandez" height="30" width="40" /></a>
+<a href="mailto:tu-email@benhadigital.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
+</p>
 
-I'm open to collaborations, opportunities, and chatting about technology.
-* **LinkedIn:** [linkedin.com/in/luis07hernandez](https://www.linkedin.com/in/luis07hernandez)
-
-Thanks for visiting my profile!
+<p align="right">
+  <i>"Transforming ideas into robust code."</i>
+</p>
