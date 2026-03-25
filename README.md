@@ -65,14 +65,6 @@ A selection of high-impact digital solutions I've architected and developed:
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luis07hernandez&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=555" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis07hernandez&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=555" alt="Top Languages" />
-</p>
-
----
-
 ## 🌟 Highlighted Experience
 * **Tecnológico de Monterrey:** High-impact educational platforms.
 * **Nestlé:** Scalable enterprise solutions.
